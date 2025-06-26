@@ -1,2 +1,1 @@
-# ayudmla-gujarat
-ayudmla-gujarat
+echo index.html
